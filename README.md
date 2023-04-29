@@ -15,6 +15,8 @@ https://wokwi.com/dashboard/projects
 - https://wokwi.com/projects/363282075914340353
 - https://wokwi.com/projects/363352758307109889
 
+![2](https://github.com/griemide/simulation/blob/main/%C2%B5P_RP2040_Pulse-Generator-2/%C2%B5P_RP2040_Pulse-Generator-2.gif)
+
 
 ## References
 
