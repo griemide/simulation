@@ -10,6 +10,7 @@ Various simulation tools and projects
 ## Examples
 
 - https://wokwi.com/projects/363282075914340353
+- https://wokwi.com/projects/363352758307109889
 
 
 ## References
