@@ -2,7 +2,7 @@
 Various simulation tools and projects
 
 ## Tools
-- [WOKWI](https://wokwi.com/) by [Uri Shaked](https://hackaday.io/urishaked)  - Simulate IoT Projects within a Browser - [GitHub](https://github.com/wokwi)
+- [WOKWI](https://wokwi.com/) by [Uri Shaked](https://hackaday.io/urishaked)  - Simulate IoT Projects (Arduino / MicroPython) within a Browser - [GitHub](https://github.com/wokwi) / [Blog](https://blog.wokwi.com/)
 
 ## Projects
  - Simulating [Micropython on a Raspberry PICO W](https://github.com/griemide/MicroPython/tree/master/RP2040)
