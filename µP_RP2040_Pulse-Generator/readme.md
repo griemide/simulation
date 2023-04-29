@@ -5,6 +5,8 @@ WOKWI Homepage - own (public) project [µP_RP2040_Pulse-Generator](https://wokwi
 
 ## Description
 
+![1](µP_RP2040_Pulse-Generator.png)
+
 ## Simulation sequence
 running simulation [MP4-video](µP_RP2040_Pulse-Generator.mp4) - built with Camtasia (needs to be downloaded for viewing)
 
