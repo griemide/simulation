@@ -8,8 +8,8 @@ WOKWI Homepage - own (public) project [µP_RP2040_Pulse-Generator](https://wokwi
 ![1](µP_RP2040_Pulse-Generator.png)
 
 ## Simulation sequence
-captured simulation [MP4-video](µP_RP2040_Pulse-Generator.mp4) - built with Camtasia (needs to be downloaded for viewing)
-captured simulation [AVI-video](µP_RP2040_Pulse-Generator.avi) - built with Camtasia (needs to be downloaded for viewing)
+* captured simulation [MP4-video](µP_RP2040_Pulse-Generator.mp4) - built with Camtasia Studio 8 by TechSmith (needs to be downloaded for viewing)  
+* captured simulation [AVI-video](µP_RP2040_Pulse-Generator.avi) - built with Camtasia Studio 8 by TechSmith (needs to be downloaded for viewing)
 
 ## VCD sequence
 
