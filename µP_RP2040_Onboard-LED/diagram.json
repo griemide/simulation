@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "author": "Michael Gries",
+  "editor": "wokwi",
+  "parts": [
+    {
+      "type": "board-pi-pico-w",
+      "id": "pico",
+      "top": 17.09,
+      "left": 121.81,
+      "rotate": 90,
+      "attrs": { "env": "micropython" }
+    },
+    {
+      "type": "wokwi-led",
+      "id": "led1",
+      "top": 24.99,
+      "left": 213.75,
+      "attrs": { "color": "blue" }
+    }
+  ],
+  "connections": [ 
+    [ "pico:GND.1", "led1:C", "black", [ "v0" ] ],
+    [ "pico:GP1", "pico:TP5", "", [ "v0" ] ], 
+    [ "pico:GP1", "led1:A", "green", [ "v0" ] ] ],
+  "dependencies": {}
+}
