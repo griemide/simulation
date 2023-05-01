@@ -9,6 +9,9 @@ Various simulation tools and projects
 https://wokwi.com/dashboard/projects
 
  - Simulating [Micropython on a Raspberry PICO W](https://github.com/griemide/MicroPython/tree/master/RP2040)
+ 
+## Available Board Definitions
+https://github.com/wokwi/wokwi-boards/tree/main/boards
 
 ## Examples
 
