@@ -13,6 +13,20 @@ https://wokwi.com/dashboard/projects
 ## Available Board Definitions
 https://github.com/wokwi/wokwi-boards/tree/main/boards
 
+## Specials
+
+add additional connection to diagam.json file: e.g. ```[ "pico:GP0", "pico:TP5", "", [ ] ], ```  
+in this case following code can be applied:
+``` micropython
+# Pins konfigurieren
+pin_gpio0 = machine.Pin(0, machine.Pin.OUT) # entspricht dem Pin 1 des RP2-boards
+pin_onboard_led = machine.Pin("LED", machine.Pin.OUT) # entspricht WL_GPIO es Infineon Chip
+...
+# Pin auf high setzen und Impulslänge warten
+pin_gpio0.on()
+pin_onboard_led.on()
+```
+
 ## Examples
 
 - https://wokwi.com/projects/363282075914340353
