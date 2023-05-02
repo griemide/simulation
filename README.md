@@ -39,5 +39,5 @@ pin_onboard_led.on()
 
 - [RP2040](https://hackaday.io/course/178733-raspberry-pi-pico-and-rp2040-the-deep-dive) 
 - https://www.hackster.io/news/uri-shaked-is-developing-a-javascript-raspberry-pi-pico-emulator-in-a-live-coding-video-series-e2905e44023f
-
 - Coding with help of ChattGPT: https://blog.wokwi.com/learn-arduino-using-ai-chatgpt/
+- https://micropython-workshop.readthedocs.io/en/latest/pages/shields/buzzer.html
